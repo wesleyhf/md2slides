@@ -1,5 +1,9 @@
 # md2slide
 
+## Demo
+
+![Demo](demo.gif)
+
 ## Project setup
 ```
 yarn install
